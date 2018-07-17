@@ -7,7 +7,7 @@
 ### Go to working Directory
 ### Recommendend to run
 ### Pod Install
-### Open TCodingAssessmentApp.xcworkspace
+### Open CodingAssessmentApp.xcworkspace
 ### Use Command+B or Product+Build to build the project
 ### Press Run icon in Xcode or Command+R to run the project on Simulator
 

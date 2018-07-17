@@ -1,0 +1,358 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="https://raw.githubusercontent.com/terryyin/lizard/master/lizard.xsl"?>
+<cppncss>
+	<measure type="Function">
+		<labels>
+			<label>Nr.</label>
+			<label>NCSS</label>
+			<label>CCN</label>
+		</labels>
+		<item name="init(...) at CodingAssessmentApp/Models/Article.swift:31">
+			<value>1</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="init(...) at CodingAssessmentApp/Models/Article.swift:35">
+			<value>2</value>
+			<value>41</value>
+			<value>11</value>
+		</item>
+		<average label="NCSS" value="22"/>
+		<average label="CCN" value="6"/>
+		<item name="generateUrl(...) at CodingAssessmentApp/Extensions/AppExtensions.swift:13">
+			<value>3</value>
+			<value>11</value>
+			<value>2</value>
+		</item>
+		<average label="NCSS" value="18"/>
+		<average label="CCN" value="4"/>
+		<item name="awakeFromNib(...) at CodingAssessmentApp/CustomViews/ArticleTableViewCell.swift:19">
+			<value>4</value>
+			<value>6</value>
+			<value>1</value>
+		</item>
+		<item name="setSelected(...) at CodingAssessmentApp/CustomViews/ArticleTableViewCell.swift:30">
+			<value>5</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<average label="NCSS" value="12"/>
+		<average label="CCN" value="3"/>
+		<item name="viewDidLoad(...) at CodingAssessmentApp/Controllers/MasterTableViewController.swift:24">
+			<value>6</value>
+			<value>13</value>
+			<value>1</value>
+		</item>
+		<item name="fetchArticleList(...) at CodingAssessmentApp/Controllers/MasterTableViewController.swift:47">
+			<value>7</value>
+			<value>18</value>
+			<value>4</value>
+		</item>
+		<item name="didReceiveMemoryWarning(...) at CodingAssessmentApp/Controllers/MasterTableViewController.swift:74">
+			<value>8</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="numberOfSections(...) at CodingAssessmentApp/Controllers/MasterTableViewController.swift:81">
+			<value>9</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="tableView(...) at CodingAssessmentApp/Controllers/MasterTableViewController.swift:86">
+			<value>10</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="tableView(...) at CodingAssessmentApp/Controllers/MasterTableViewController.swift:92">
+			<value>11</value>
+			<value>26</value>
+			<value>7</value>
+		</item>
+		<item name="tableView(...) at CodingAssessmentApp/Controllers/MasterTableViewController.swift:146">
+			<value>12</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="tableView(...) at CodingAssessmentApp/Controllers/MasterTableViewController.swift:151">
+			<value>13</value>
+			<value>10</value>
+			<value>2</value>
+		</item>
+		<item name="splitViewController(...) at CodingAssessmentApp/Controllers/MasterTableViewController.swift:227">
+			<value>14</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<average label="NCSS" value="10"/>
+		<average label="CCN" value="2"/>
+		<item name="refreshUI(...) at CodingAssessmentApp/Controllers/DetailViewController.swift:25">
+			<value>15</value>
+			<value>8</value>
+			<value>2</value>
+		</item>
+		<item name="articleSelected(...) at CodingAssessmentApp/Controllers/DetailViewController.swift:54">
+			<value>16</value>
+			<value>7</value>
+			<value>2</value>
+		</item>
+		<average label="NCSS" value="10"/>
+		<average label="CCN" value="2"/>
+		<average label="NCSS" value="10"/>
+		<average label="CCN" value="2"/>
+		<average label="NCSS" value="10"/>
+		<average label="CCN" value="2"/>
+		<item name="init(...) at CodingAssessmentApp/Data/Errors/AppError.swift:38">
+			<value>17</value>
+			<value>5</value>
+			<value>1</value>
+		</item>
+		<average label="NCSS" value="9"/>
+		<average label="CCN" value="2"/>
+		<item name="PrintReachabilityFlags(...) at CodingAssessmentApp/Services/Reachability.m:30">
+			<value>18</value>
+			<value>15</value>
+			<value>11</value>
+		</item>
+		<item name="ReachabilityCallback(...) at CodingAssessmentApp/Services/Reachability.m:51">
+			<value>19</value>
+			<value>7</value>
+			<value>1</value>
+		</item>
+		<item name="reachabilityWithHostName:(...) at CodingAssessmentApp/Services/Reachability.m:70">
+			<value>20</value>
+			<value>17</value>
+			<value>3</value>
+		</item>
+		<item name="reachabilityWithAddress:(...) at CodingAssessmentApp/Services/Reachability.m:89">
+			<value>21</value>
+			<value>17</value>
+			<value>3</value>
+		</item>
+		<item name="reachabilityForInternetConnection(...) at CodingAssessmentApp/Services/Reachability.m:110">
+			<value>22</value>
+			<value>8</value>
+			<value>1</value>
+		</item>
+		<item name="startNotifier(...) at CodingAssessmentApp/Services/Reachability.m:128">
+			<value>23</value>
+			<value>13</value>
+			<value>3</value>
+		</item>
+		<item name="stopNotifier(...) at CodingAssessmentApp/Services/Reachability.m:145">
+			<value>24</value>
+			<value>7</value>
+			<value>2</value>
+		</item>
+		<item name="dealloc(...) at CodingAssessmentApp/Services/Reachability.m:154">
+			<value>25</value>
+			<value>8</value>
+			<value>2</value>
+		</item>
+		<item name="networkStatusForFlags:(...) at CodingAssessmentApp/Services/Reachability.m:166">
+			<value>26</value>
+			<value>26</value>
+			<value>7</value>
+		</item>
+		<item name="connectionRequired(...) at CodingAssessmentApp/Services/Reachability.m:213">
+			<value>27</value>
+			<value>10</value>
+			<value>2</value>
+		</item>
+		<item name="isConnectedToNetwork(...) at CodingAssessmentApp/Services/Reachability.m:226">
+			<value>28</value>
+			<value>9</value>
+			<value>2</value>
+		</item>
+		<item name="currentReachabilityStatus(...) at CodingAssessmentApp/Services/Reachability.m:236">
+			<value>29</value>
+			<value>11</value>
+			<value>2</value>
+		</item>
+		<average label="NCSS" value="10"/>
+		<average label="CCN" value="2"/>
+		<average label="NCSS" value="10"/>
+		<average label="CCN" value="2"/>
+		<item name="getArticlesList(...) at CodingAssessmentApp/Services/AppApiManager.swift:17">
+			<value>30</value>
+			<value>32</value>
+			<value>5</value>
+		</item>
+		<average label="NCSS" value="11"/>
+		<average label="CCN" value="2"/>
+		<item name="init(...) at CodingAssessmentApp/Services/AppNetworkClient.swift:28">
+			<value>31</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="getDataFor(...) at CodingAssessmentApp/Services/AppNetworkClient.swift:33">
+			<value>32</value>
+			<value>28</value>
+			<value>6</value>
+		</item>
+		<item name="networkCallFor(...) at CodingAssessmentApp/Services/AppNetworkClient.swift:68">
+			<value>33</value>
+			<value>64</value>
+			<value>11</value>
+		</item>
+		<item name="cancelNetworkCall(...) at CodingAssessmentApp/Services/AppNetworkClient.swift:138">
+			<value>34</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="appendString(...) at CodingAssessmentApp/Services/AppNetworkClient.swift:145">
+			<value>35</value>
+			<value>4</value>
+			<value>1</value>
+		</item>
+		<item name="urlSession(...) at CodingAssessmentApp/Services/AppNetworkClient.swift:153">
+			<value>36</value>
+			<value>11</value>
+			<value>2</value>
+		</item>
+		<average label="NCSS" value="12"/>
+		<average label="CCN" value="2"/>
+		<average label="NCSS" value="12"/>
+		<average label="CCN" value="2"/>
+		<average label="NCSS" value="12"/>
+		<average label="CCN" value="2"/>
+		<item name="application(...) at CodingAssessmentApp/AppDelegate.swift:17">
+			<value>37</value>
+			<value>13</value>
+			<value>2</value>
+		</item>
+		<item name="applicationWillResignActive(...) at CodingAssessmentApp/AppDelegate.swift:46">
+			<value>38</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="applicationDidEnterBackground(...) at CodingAssessmentApp/AppDelegate.swift:51">
+			<value>39</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="applicationWillEnterForeground(...) at CodingAssessmentApp/AppDelegate.swift:56">
+			<value>40</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="applicationDidBecomeActive(...) at CodingAssessmentApp/AppDelegate.swift:60">
+			<value>41</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="applicationWillTerminate(...) at CodingAssessmentApp/AppDelegate.swift:64">
+			<value>42</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<average label="NCSS" value="11"/>
+		<average label="CCN" value="2"/>
+	</measure>
+	<measure type="File">
+		<labels>
+			<label>Nr.</label>
+			<label>NCSS</label>
+			<label>CCN</label>
+			<label>Functions</label>
+		</labels>
+		<item name="CodingAssessmentApp/Models/Article.swift">
+			<value>1</value>
+			<value>57</value>
+			<value>12</value>
+			<value>2</value>
+		</item>
+		<item name="CodingAssessmentApp/Extensions/AppExtensions.swift">
+			<value>2</value>
+			<value>23</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="CodingAssessmentApp/CustomViews/ArticleTableViewCell.swift">
+			<value>3</value>
+			<value>16</value>
+			<value>2</value>
+			<value>2</value>
+		</item>
+		<item name="CodingAssessmentApp/Controllers/MasterTableViewController.swift">
+			<value>4</value>
+			<value>97</value>
+			<value>19</value>
+			<value>9</value>
+		</item>
+		<item name="CodingAssessmentApp/Controllers/DetailViewController.swift">
+			<value>5</value>
+			<value>29</value>
+			<value>4</value>
+			<value>2</value>
+		</item>
+		<item name="CodingAssessmentApp/Data/Constants/AppConstants.swift">
+			<value>6</value>
+			<value>6</value>
+			<value>0</value>
+			<value>0</value>
+		</item>
+		<item name="CodingAssessmentApp/Data/Constants/AppUIConstants.swift">
+			<value>7</value>
+			<value>9</value>
+			<value>0</value>
+			<value>0</value>
+		</item>
+		<item name="CodingAssessmentApp/Data/Errors/AppError.swift">
+			<value>8</value>
+			<value>30</value>
+			<value>1</value>
+			<value>1</value>
+		</item>
+		<item name="CodingAssessmentApp/Services/Reachability.m">
+			<value>9</value>
+			<value>154</value>
+			<value>39</value>
+			<value>12</value>
+		</item>
+		<item name="CodingAssessmentApp/Services/Reachability.h">
+			<value>10</value>
+			<value>16</value>
+			<value>0</value>
+			<value>0</value>
+		</item>
+		<item name="CodingAssessmentApp/Services/AppApiManager.swift">
+			<value>11</value>
+			<value>38</value>
+			<value>5</value>
+			<value>1</value>
+		</item>
+		<item name="CodingAssessmentApp/Services/AppNetworkClient.swift">
+			<value>12</value>
+			<value>133</value>
+			<value>22</value>
+			<value>6</value>
+		</item>
+		<item name="CodingAssessmentApp/CodingAssessmentAppTests-Bridging-Header.h">
+			<value>13</value>
+			<value>0</value>
+			<value>0</value>
+			<value>0</value>
+		</item>
+		<item name="CodingAssessmentApp/CodingAssessmentApp-Bridging-Header.h">
+			<value>14</value>
+			<value>0</value>
+			<value>0</value>
+			<value>0</value>
+		</item>
+		<item name="CodingAssessmentApp/AppDelegate.swift">
+			<value>15</value>
+			<value>28</value>
+			<value>7</value>
+			<value>6</value>
+		</item>
+		<average label="NCSS" value="42"/>
+		<average label="CCN" value="7"/>
+		<average label="Functions" value="2"/>
+		<sum label="NCSS" value="636"/>
+		<sum label="CCN" value="113"/>
+		<sum label="Functions" value="42"/>
+		<average label="NCSS" value="15"/>
+		<average label="CCN" value="2"/>
+	</measure>
+</cppncss>
+

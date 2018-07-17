@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='CodingAssessmentAppTests.xctest' tests='8' failures='0'>
+  <testsuite name='CodingAssessmentAppUITests.CodingAssessmentAppUITests' tests='1' failures='0'>
+    <testcase classname='CodingAssessmentAppUITests.CodingAssessmentAppUITests' name='testMasterTableViewLoad' time='6.855'/>
+  </testsuite>
+  <testsuite name='CodingAssessmentAppTests.CodingAssessmentAppTests' tests='7' failures='0'>
+    <testcase classname='CodingAssessmentAppTests.CodingAssessmentAppTests' name='testHasATableView' time='0.007'/>
+    <testcase classname='CodingAssessmentAppTests.CodingAssessmentAppTests' name='testTableViewCellHasReuseIdentifier' time='0.004'/>
+    <testcase classname='CodingAssessmentAppTests.CodingAssessmentAppTests' name='testTableViewConformsToTableViewDataSourceProtocol' time='0.004'/>
+    <testcase classname='CodingAssessmentAppTests.CodingAssessmentAppTests' name='testTableViewConfromsToTableViewDelegateProtocol' time='0.005'/>
+    <testcase classname='CodingAssessmentAppTests.CodingAssessmentAppTests' name='testTableViewHasDataSource' time='0.005'/>
+    <testcase classname='CodingAssessmentAppTests.CodingAssessmentAppTests' name='testTableViewHasDelegate' time='0.004'/>
+    <testcase classname='CodingAssessmentAppTests.CodingAssessmentAppTests' name='testValidCallToNYGetsHTTPStatusCode200' time='2.277'/>
+  </testsuite>
+</testsuites>

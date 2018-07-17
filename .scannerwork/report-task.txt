@@ -1,0 +1,6 @@
+projectKey=CodeSample:CodingAssessmentApp
+serverUrl=http://localhost:9000
+serverVersion=6.7.4.38452
+dashboardUrl=http://localhost:9000/dashboard/index/CodeSample:CodingAssessmentApp
+ceTaskId=AWSnipxNP0iuZ_M1HgtZ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWSnipxNP0iuZ_M1HgtZ
